@@ -1,0 +1,23 @@
+header{
+  height: 70px;
+  background: indianred;
+  text-align: center;
+  color: white;
+  font-family: ;
+}
+
+body{
+  background:darksalmon;
+}
+
+img{
+  height: 200px;
+  float: right;
+}
+
+h2{
+  color:white;
+}
+h3{
+  color:white;
+}
